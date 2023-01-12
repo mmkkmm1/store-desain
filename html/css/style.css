@@ -1,0 +1,539 @@
+
+body
+{
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+    background-color: #faf6f6;
+    direction: rtl;
+}
+
+
+
+
+.container
+{
+width: 80%;
+margin: auto;
+overflow: hidden;
+margin-right: auto;
+}
+
+
+ul
+{
+    margin:0;
+    padding: 0;
+    
+}
+
+
+header
+{
+    background: #191a1b;
+    color: #ffffff;
+    padding-top: 20px;
+    min-height: 70px;
+    border-bottom: #32a0c2 5px solid;
+}
+
+
+header a
+{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 19px;
+}
+
+
+
+header li 
+{
+    float: right;
+    display: inline;
+    padding: 0 20px 0 20px;
+    
+    
+}
+
+
+
+header #brand
+{
+    float: right;
+}
+
+
+
+header #brand h1
+{
+    margin: auto;
+    color: #d3d88d;
+    font-weight: bold;
+    font-family: initial;
+    margin-left: 10;
+    font-size:xx-large;
+    text-shadow: #e0f804;
+    text-align: right;
+    
+    
+    
+    
+}
+
+
+
+header nav 
+{
+    float: left;
+    margin-top:30;
+    word-spacing: 5px;
+    
+}
+
+
+
+header .current a
+{
+    color: #d6d6d6;
+    font-weight: bold;
+    font-size:small;
+    
+}
+
+header .aa a
+{
+    color: #a6b5b9;
+    font-weight: bold;
+    font-size:small;
+    
+}
+header .bb a 
+{
+    color: #a6b5b9;
+    font-weight: bold;
+    font-size:small;
+}
+header .cc a{
+    color: #a6b5b9;
+    font-weight: bold;
+    font-size:small;
+}
+
+
+header a:hover
+{
+    color: #fff89d;
+    font-weight: bold;
+    font-size:medium;
+}
+ 
+
+#ahmedd
+{
+min-height: 450px;
+background: url(../graphic.webp)no-repeat ;
+background-size: cover;
+
+
+}
+
+
+#newsletter
+{
+    padding: 10px;
+    color: #ffffff;
+    background: #55585a;
+}
+
+#newsletter h1
+{
+    float:right;
+    color: #edf796;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+#newsletter form
+{
+    float: left;
+    margin: 15px;
+}
+
+#newsletter input[type="email"]
+{
+width: 200px;
+height: 30px;
+padding: 4px;
+background-color: #f3f0f0;
+}
+.button 
+{
+    
+    height: 30px;
+    background: #cccccc;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #353637;
+    
+}
+
+
+
+.h2
+{
+    
+    direction: rtl;
+    font-family: Arial,sans-serif;
+    text-align: center;
+    text-rendering: optimizeLegibility;
+    line-height: 36px;
+    color: black;
+    margin-bottom:-80;
+    font-size: x-large;
+}
+
+
+
+
+#boxes
+
+{
+    margin-top: 40px
+}
+
+
+
+
+ #ahmed
+ {
+    float: right;
+    text-align: center;
+    width: 150px;
+    padding: 50px;
+}
+
+#boxes #ahmed  {
+    color: #242629;
+    font-weight: bold;
+}
+
+
+
+.gra
+{
+    font: 1em sans-serif;
+    margin-right: 70px;
+    margin-top: 20px;
+    color: #ec6a6a;
+    margin-bottom: 10px;
+    
+
+}
+.produts .mmm
+{
+
+flex-wrap: wrap;
+gap: 1.5rem;
+display: inline-table;
+font-size: 20px;
+color: #ff0707;
+font-family: 'Cairo',sans-serif;
+box-sizing: border-box;
+margin: 50px;
+padding: 30px;
+width: 300;
+height: 200;
+text-align: center;
+
+
+
+
+}
+.produts .mmm .content
+{
+    margin: 20px;
+    text-align: center;
+    border-radius: 5rem;
+    border: #232f41;
+    position: relative;
+    
+
+    
+}
+.imag
+{
+    box-shadow: 0.5rem 1.5rem rgb(0,0,0,1);
+    position: relative;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.mot
+{
+    font: 1em sans-serif;
+    margin-right: 50px;
+    color: #ec6a6a;
+}
+.mk
+{
+ 
+
+}
+
+
+
+
+
+.ll
+{
+   text-align: right;
+   font-size: 20px;
+   line-height: 2;
+   color: #034aad;
+   font-family: 'Cairo',sans-serif;
+   font-weight: 400;
+   position: relative;
+   width: 80%;
+   margin-right: 40;
+}
+
+
+ .col
+{
+
+    width: 40%;
+    margin: 10;
+    overflow: hidden;
+    margin-right: auto;
+
+
+    font-size: 20px;
+    line-height: 1.42857143;
+    color: #0254c7;
+    font-family: 'Cairo',sans-serif;
+    font-weight: 300;
+    text-align: center;
+    position: absolute;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: table;
+    margin: 20;
+}
+
+h1
+{
+    color: #ec6a6a;
+}
+
+h3
+{
+
+    text-align: center;
+    box-sizing: border-box;
+    font-family: inherit;
+    color: inherit;
+    line-height: 2em;
+    display: block;
+    margin: 0;
+    font-size: 30px;
+    font-weight: 400;
+    font-size: xx-large;
+    position: relative;
+    color: #ec6a6a;
+    
+
+}
+.p
+{
+    text-align: center;
+    box-sizing: border-box;
+    font-family: inherit;
+    color: inherit;
+    line-height: 2em;
+    display: block;
+    margin: 10;
+    font: size 20px;;
+    font-weight: 300;
+    position: relative;
+    color: #0F1111;
+    
+}
+#ass
+{
+    
+    
+    font-family: inherit;
+    color: inherit;
+    line-height: 2em;
+    display: block;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 300;
+    position: relative;
+    color: #0F1111;
+    margin-right:600px;
+}
+#ass ul
+
+{
+    
+
+    
+    font-size: 20px;
+    line-height: 1.42857143;
+    color: #232f41;
+    font-family: 'Cairo',sans-serif;
+    font-weight: 300;
+    box-sizing: border-box;
+    display: block;
+    margin: 10px ;
+    padding: 20;
+    
+   
+}
+
+
+    
+    
+
+
+
+
+
+
+.text2 
+{
+    font-family: Arial,sans-serif;
+            text-align: center;
+            padding: 0;
+            text-rendering: optimizeLegibility;
+            padding-bottom: 4px;
+            line-height: 36px;
+            font-weight: normal;
+            font-size: 28px;
+            margin: 12px 0;
+            box-sizing: border-box;
+            color: black;
+
+}
+h1{
+    font-weight: 400;
+    font-size: xx-large;
+    text-shadow: #d9ff00;
+}
+
+.text2 .ss
+{
+    -webkit-text-size-adjust: 100%;
+    color: #0F1111;
+    font-family: "Amazon Ember",Arial,sans-serif;
+    font-size: 16px;
+    line-height: 21px;
+    margin-bottom: 6px;
+    font-weight: 700;
+    box-sizing: border-box;
+}
+
+
+
+#text form
+{
+    float: none;
+    margin: 15px;
+}
+
+#text input[type="email"]
+{
+width: 200px;
+height: 30px;
+padding: 4px;
+background-color: #f3f0f0;
+position: relative;
+}
+.button 
+{
+    
+    height: 30px;
+    background: #cccccc;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #353637;
+    
+}
+
+
+
+
+
+footer{
+    padding: 20px;
+    margin-top: 20px;
+    color: #fffd7e;
+    background-color: #292e30;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    position: relative;
+}
+
+
+ 
+    
+
+
+
+
+
+
+
+
